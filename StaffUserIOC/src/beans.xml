@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <dbfile>dbMy.properties</dbfile>
+  <beans>
+      <bean id="userDao" class="com.icss.dao.UserMyDao" />
+      <bean id="staffDao" class="com.icss.dao.StaffMyDao" />
+  </beans>
+</root>
